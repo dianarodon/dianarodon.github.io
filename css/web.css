@@ -22,7 +22,7 @@ body {
   margin: 0 0 0 300px;
   padding: 1em;
   border: none;
-  background-image: url(../"congruent_pentagon.png");
+  background-image: url(../congruent_pentagon.png);
   background-repeat: repeat-y;
   background-position: -40%;
 }
