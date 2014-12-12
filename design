@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8" />
+      <title>Diana Rodon </title>
+      <link href='http://fonts.googleapis.com/css?family=Nova+Oval' rel='stylesheet' >
+      <link href='http://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' >
+      <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' >
+      <link href="web.css" rel="stylesheet" />
+      <link href="print.css" rel="stylesheet" media="print" />
+    </head>
+    <body>
+      <header>
+        <h1>Diana Rodon </h1>
+      </header>
+      <nav>
+        <ul>
+          <li><a href="mywebsite.html">Home </a></li>
+          <li><a href="aboutme">About Me </a></li>
+          <li><a href="design">Design </a></li>
+          <li><a href="creativewriting">Creative Writing </a></li>
+        </ul>
+      </nav>
+      <main>
+      <div id="nav2">
+        <li><a href="#LiteracyandHarryPotter">Literacy and Harry Potter </a></li>
+        <li><a href="#SwedenEquality">Equality in Sweden</a></li>
+        <li><a href="#GazaTunnels">Breakdown of the Gaza Tunnels</a></li>
+      </div>
+      <div class="boxed">
+        <section id="Design">
+          <h2>Design </h2>
+            <p>During my undergraduate studies in the University of Miami's School of Communication, I have taken a selection of design courses. The following are examples of my design work in an Infographics course. </p>
+      </div>
+      <div class="boxed">
+        <section id="LiteracyandHarryPotter">
+          <img src="harrypotterstats-01.jpg" class="large" alt="HP" />
+      </div>
+      <div class="boxed">
+        <section id="SwedenEquality">
+          <img src="sweden equality.svg" class="large" alt="Sweden" />
+      </div>
+      <div class="boxed2">
+        <section id="GazaTunnels">
+          <img src="gaza tunnels.svg" class="large2" alt="Gaza" />
+      </div>
+    </main>
+  </body>
+  </html>
