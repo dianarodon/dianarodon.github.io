@@ -1,0 +1,77 @@
+@media (max-width: 320px) {
+
+  body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    max-width: 320px;
+  }
+
+  img.small {
+    margin: 10px;
+    height: 150px;
+    border: 1px solid;
+    float: right;
+    clear: left;
+  }
+
+  img.large {
+    margin: 0 25px;
+    height: 275px;
+    border: 1px solid;
+  }
+
+  img.large2 {
+    margin: 0;
+    height: 210px;
+    border: 1px solid;
+  }
+
+  .boxed {
+    margin: 30px auto;
+    padding: 8px 0 8px 0;
+    padding-left: 10px;
+    background-color: white;
+    width: 275px;
+  }
+
+  .boxed2 {
+    margin: 0 auto;
+    padding: 8px;
+    background-color: white;
+    width: 275px;
+  }
+
+  #NightRays p {
+    margin-top: 0;
+    margin-bottom: 0;
+
+  }
+
+  h1 {
+    font-family: 'Nova Oval', cursive;
+  }
+
+  h2,h3 {
+    font-family:'Megrim', cursive;
+  }
+
+  ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 4px;
+  }
+
+  ul li {
+    padding: 0.25em 0;
+  }
+
+  li {
+    list-style-type: none;
+    display: block;
+  }
+
+  #nav2 {
+    text-align: right;
+    list-style-type: none;
+  }
+}
