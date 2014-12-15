@@ -48,7 +48,19 @@ h1 {
 h2, h3 {
   text-align: center;
   font-family:'Megrim', cursive;
+}
 
+#Resume p {
+  clear: both;
+}
+
+h4 {
+  float: left;
+}
+
+h5 {
+  float: right;
+  margin-right: 10px;
 }
 
 .boxed {
