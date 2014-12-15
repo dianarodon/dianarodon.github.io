@@ -20,12 +20,6 @@ img.small {
   clear: left;
 }
 
-img.medium {
-  margin: 0 0 0 200px;
-  height: 200px;
-  border: 1px solid;
-}
-
 img.large {
   margin: 0 100px;
   height: 500px;
