@@ -50,10 +50,6 @@ h2, h3 {
   font-family:'Megrim', cursive;
 }
 
-#Resume p {
-  clear: both;
-}
-
 #Resume h3 {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -68,6 +64,14 @@ h4 {
 h5 {
   float: right;
   margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#Resume p {
+  clear: both;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .boxed {
