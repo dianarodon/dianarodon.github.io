@@ -55,6 +55,30 @@
     font-family:'Megrim', cursive;
   }
 
+  #Resume h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #Resume p {
+    clear: both;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  h4 {
+    float: left;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  h5 {
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
   ul {
     list-style-type: none;
     text-align: center;
