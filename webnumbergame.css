@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+label {
+  font-size: 20px;
+}
+
+#form {
+  margin-top: 10px;
+}
+
+#result {
+  color: red;
+  margin-top: 5px;
+}
