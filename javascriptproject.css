@@ -39,6 +39,12 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  color: #C8C5C5;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-timing-function: ease;
+}
+
 #Fire:hover {
   fill: orange;
   fill: yellow;
