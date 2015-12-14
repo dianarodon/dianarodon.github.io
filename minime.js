@@ -1,0 +1,182 @@
+$(".hide1").delay(1000).fadeIn();
+$(".hide2").delay(1500).fadeIn();
+$(".hide3").delay(2000).fadeIn();
+$(".hide4").delay(3000).fadeIn();
+$(".hide5").delay(3000).fadeIn();
+$(".hide6").delay(3000).fadeIn();
+
+$(".1").click(function(){
+  $(".hide1").hide();
+  $(".hide2").hide();
+  $(".hide3").hide();
+  $(".hide4").hide();
+  $(".hide5").hide();
+  $(".hide6").hide();
+  $(".hide7").delay(1000).fadeIn();
+  $(".hide8").delay(2000).fadeIn();
+  $(".hide9").delay(2000).fadeIn();
+  $(".hide10").delay(2000).fadeIn();
+  $(".hide11").delay(3000).fadeIn();
+  $(".hide12").delay(4000).fadeIn();
+});
+
+$(".2").on('mousedown', function(){
+  $(this).html("loving");
+});
+
+$(".2").on('mouseup', function(){
+  $(this).html("cariñosa");
+});
+
+$(".3").click(function(){
+  $(".hide13").delay(1000).fadeIn();
+  $(".hide14").delay(2000).fadeIn();
+});
+
+$(".4").click(function(){
+  $(".hide15").delay(1000).fadeIn();
+  $(".hide16").delay(2000).fadeIn();
+});
+
+$(".5").click(function(){
+  $(".hide7").hide();
+  $(".hide8").hide();
+  $(".hide9").hide();
+  $(".hide10").hide();
+  $(".hide11").hide();
+  $(".hide12").hide();
+  $(".hide13").hide();
+  $(".hide14").hide();
+  $(".hide15").hide();
+  $(".hide16").hide();
+  $(".hide17").delay(1000).fadeIn();
+  $(".hide18").delay(2000).fadeIn();
+  $(".hide19").delay(3000).fadeIn();
+});
+
+$(".6").click(function(){
+  $(".hide17").hide();
+  $(".hide18").hide();
+  $(".hide19").hide();
+  $(".hide20").delay(1000).fadeIn();
+  $(".hide21").delay(2000).fadeIn();
+  $(".hide22").delay(3000).fadeIn();
+  $(".hide23").delay(4000).fadeIn();
+  $(".hide24").delay(5000).fadeIn();
+  $(".hide25").delay(6000).fadeIn();
+});
+
+$(".7").click(function(){
+  $(".hide20").hide();
+  $(".hide21").hide();
+  $(".hide22").hide();
+  $(".hide23").hide();
+  $(".hide24").hide();
+  $(".hide25").hide();
+  $(".hide26").delay(1000).fadeIn();
+  $(".hide27").delay(2000).fadeIn();
+  $(".hide28").delay(3000).fadeIn();
+  $(".hide29").delay(4000).fadeIn();
+  $(".hide30").delay(5000).fadeIn();
+  $(".hide31").delay(6000).fadeIn();
+});
+
+$(".8").click(function(){
+  $(".hide26").hide();
+  $(".hide27").hide();
+  $(".hide28").hide();
+  $(".hide29").hide();
+  $(".hide30").hide();
+  $(".hide31").hide();
+  $(".hide32").delay(1000).fadeIn();
+  $(".hide33").delay(2000).fadeIn();
+  $(".hide34").delay(3000).fadeIn();
+  $(".hide35").delay(4000).fadeIn();
+  $(".hide36").delay(5000).fadeIn();
+  $(".hide37").delay(6000).fadeIn();
+});
+
+$(".9").click(function(){
+  $(".hide32").hide();
+  $(".hide33").hide();
+  $(".hide34").hide();
+  $(".hide35").hide();
+  $(".hide36").hide();
+  $(".hide37").hide();
+  $(".hide38").delay(1000).fadeIn();
+  $(".hide39").delay(2000).fadeIn();
+  $(".hide40").delay(3000).fadeIn();
+  $(".hide41").delay(4000).fadeIn();
+  $(".hide42").delay(5000).fadeIn();
+  $(".hide43").delay(6000).fadeIn();
+  $(".hide44").delay(7000).fadeIn();
+});
+
+$(".10").click(function(){
+  $(".hide38").hide();
+  $(".hide39").hide();
+  $(".hide40").hide();
+  $(".hide41").hide();
+  $(".hide42").hide();
+  $(".hide43").hide();
+  $(".hide44").hide();
+  $(".hide45").delay(1000).fadeIn();
+  $(".hide46").delay(2000).fadeIn();
+  $(".hide47").delay(3000).fadeIn();
+  $(".hide48").delay(4000).fadeIn();
+  $(".hide49").delay(5000).fadeIn();
+});
+
+$(".11").click(function(){
+  $(".hide45").hide();
+  $(".hide46").hide();
+  $(".hide47").hide();
+  $(".hide48").hide();
+  $(".hide49").hide();
+  $(".hide50").delay(1000).fadeIn();
+  $(".hide51").delay(2000).fadeIn();
+  $(".hide52").delay(3000).fadeIn();
+  $(".hide53").delay(4000).fadeIn();
+  $(".hide54").delay(5000).fadeIn();
+  $(".hide55").delay(6000).fadeIn();
+});
+
+$(".12").click(function(){
+  $(".hide50").hide();
+  $(".hide51").hide();
+  $(".hide52").hide();
+  $(".hide53").hide();
+  $(".hide54").hide();
+  $(".hide55").hide();
+  $(".hide56").delay(1000).fadeIn();
+  $(".hide57").delay(2000).fadeIn();
+  $(".hide58").delay(3000).fadeIn();
+  $(".hide59").delay(4000).fadeIn();
+  $(".hide60").delay(5000).fadeIn();
+  $(".hide61").delay(6000).fadeIn();
+  $(".hide62").delay(7000).fadeIn();
+});
+
+$(".13").click(function(){
+  $(".hide56").hide();
+  $(".hide57").hide();
+  $(".hide58").hide();
+  $(".hide59").hide();
+  $(".hide60").hide();
+  $(".hide61").hide();
+  $(".hide62").hide();
+  $(".hide63").delay(1000).fadeIn();
+  $(".hide64").delay(2000).fadeIn();
+  $(".hide65").delay(3000).fadeIn();
+});
+
+$(".14").click(function(){
+  $(".hide63").hide();
+  $(".hide64").hide();
+  $(".hide65").hide();
+  $(".hide66").delay(1000).fadeIn();
+  $(".hide67").delay(2000).fadeIn();
+  $(".hide68").delay(3000).fadeIn();
+  $(".hide69").delay(4000).fadeIn();
+  $(".hide70").delay(5000).fadeIn();
+});

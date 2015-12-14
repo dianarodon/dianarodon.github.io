@@ -1,0 +1,140 @@
+/*<a href='http://www.freepik.com/free-vector/camouflage-pattern_793971.htm'>Designed by Freepik</a>
+<a href="http://www.freepik.com/free-vector/family-silhouettes_791489.htm">Designed by Freepik</a>
+*/
+
+body {
+  font-family: 'exo_2.0light';
+  font-size: 12pt;
+  background-image: url("war.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+header {
+  width: 370px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  width: 370px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+svg {
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: -60px;
+  margin-right: -190px;
+}
+
+.last p {
+  margin-top: 0;
+  margin-bottom: 5px;
+  text-indent: -1em;
+}
+
+.content p {
+  margin-top: 0;
+  margin-bottom: 5px;
+  text-indent: -1em;
+}
+
+.content p:nth-last-of-type(4n) {
+  margin-bottom: 16px;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  font-family: 'exo_2.0light';
+  color: #D10C29;
+  font-size: 12pt;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+  margin-bottom: -15px;
+}
+
+button:hover {
+  color: black;
+}
+
+#Fire:hover {
+  fill: orange;
+  fill: yellow;
+  -webkit-transition-duration: 5s;
+  -webkit-transition-timing-function: ease;
+}
+
+.next {
+  margin-left: 150px;
+}
+
+.line0 {
+  display: none;
+  margin-left: 350px;
+  margin-top: 0;
+}
+
+.line1 {
+  display: none;
+  margin-left: 650px;
+  margin-top: 0;
+}
+
+.line2 {
+  display: none;
+  margin-left: 350px;
+  margin-top: 0;
+}
+
+.line3 {
+  display: none;
+  margin-left: 650px;
+  margin-top: 0;
+}
+
+.line4 {
+  display: none;
+  margin-left: 650px;
+  margin-top: 0;
+}
+
+.line5 {
+  display: none;
+  margin-left: 350px;
+}
+
+.line6 {
+  display: none;
+  margin-left: 650px;
+}
+
+.line7 {
+  display: none;
+  margin-left: 350px;
+}
+
+.line8 {
+  display: none;
+  margin-left: 650px;
+}
+
+.line9 {
+  display: none;
+  margin-left: 350px;
+}
+
+.last {
+  display: none;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}

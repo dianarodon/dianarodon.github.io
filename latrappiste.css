@@ -1,0 +1,150 @@
+body {
+  font-family: 'griffosfontregular';
+  font-size: 13pt;
+  background-image: url("natural_paper.png");
+  background-attachment: fixed;
+  position: relative;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+header {
+  font-family: 'kells_sdregular';
+  margin-bottom: -15px;
+}
+
+svg {
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: -60px;
+  margin-right: -190px;
+}
+
+#Fire:hover {
+  fill: orange;
+  fill: #F7C307;
+  -webkit-transition-duration: 5s;
+  -webkit-transition-timing-function: ease;
+}
+
+#slides {
+  display: none;
+  margin-top: 100px;
+  margin-right: 50px;
+  width: 600px;
+  height: 600px;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+a {
+  font-family: 'kells_sdregular';
+  color: #D10C29;
+  text-decoration: none;
+  background-color: transparent;
+  padding-right: 10px;
+}
+
+ul {
+  display: none;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  font-family: 'griffosfontregular';
+  color: #D10C29;
+  font-size: 10pt;
+  margin-bottom: -10px;
+}
+
+
+button:hover {
+  color: black;
+}
+
+p {
+  display: inline;
+}
+
+.hide1 {
+  display: none;
+}
+
+.hide2 {
+  display: none;
+}
+
+.hide3 {
+  display: none;
+}
+
+.hide4 {
+  display: none;
+}
+
+.hide5 {
+  display: none;
+}
+
+.hide6 {
+  display: none;
+  -webkit-animation-delay: .5s;
+}
+
+.hide7 {
+  display: none;
+}
+
+.hide8 {
+  display: none;
+}
+
+.hide9 {
+  display: none;
+}
+
+.hide10 {
+  display: none;
+}
+
+.hide11 {
+  display: none;
+}
+
+.hide12 {
+  display: none;
+  -webkit-animation-delay: .5s;
+}
+
+.hide13 {
+  display: none;
+}
+
+.hide14 {
+  display: none;
+}
+
+.hide15 {
+  display: none;
+}
+
+.hide16 {
+  display: none;
+}
+
+.hide17 {
+  display: none;
+}
+
+.hide18 {
+  display: none;
+  -webkit-animation-delay: .5s;
+}
+
+.hide19 {
+  display: none;
+}
