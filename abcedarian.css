@@ -1,0 +1,155 @@
+body {
+  font-family: 'exo_2.0light';
+  font-size: 12pt;
+  color: white;
+  background-image: url("stars.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-left: .5em;
+  margin-left: 30px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+header {
+  font-family: 'exo_2.0light';
+  font-size: 12pt;
+  margin-top: -10px;
+  margin-bottom: -20px;
+  margin-left: 50px;
+}
+
+svg {
+  margin-bottom: -50px;
+  margin-right: -195px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+#Fire:hover {
+  fill: orange;
+  fill: yellow;
+  -webkit-transition-duration: 5s;
+  -webkit-transition-timing-function: ease;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  font-family: 'exo_2.0bold';
+  font-size: 13pt;
+  margin-bottom: -10px;
+  color: white;
+  cursor: pointer;
+}
+
+p {
+  display: inline;
+  margin-left: -8px;
+}
+
+.hideA {
+  display: none;
+}
+
+.hideB {
+  display: none;
+}
+
+.hideC {
+  display: none;
+}
+
+.hideD {
+  display: none;
+}
+
+.hideE {
+  display: none;
+}
+
+.hideF {
+  display: none;
+}
+
+.hideG {
+  display: none;
+}
+
+.hideH {
+  display: none;
+}
+
+.hideI {
+  display: none;
+}
+
+.hideJ {
+  display: none;
+}
+
+.hideK {
+  display: none;
+}
+
+.hideL {
+  display: none;
+}
+
+.hideM {
+  display: none;
+}
+
+.hideN {
+  display: none;
+}
+
+.hideO {
+  display: none;
+}
+
+.hideP {
+  display: none;
+}
+
+.hideQ {
+  display: none;
+}
+
+.hideR {
+  display: none;
+}
+
+.hideS {
+  display: none;
+}
+
+.hideT {
+  display: none;
+}
+
+.hideU {
+  display: none;
+}
+
+.hideV {
+  display: none;
+}
+
+.hideW {
+  display: none;
+}
+
+.hideX {
+  display: none;
+}
+
+.hideY {
+  display: none;
+}
+
+.hideZ {
+  display: none;
+}

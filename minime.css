@@ -1,0 +1,481 @@
+body {
+  font-family: 'griffosfontregular';
+  font-size: 13pt;
+  color: black;
+  background-image: url("minime.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  font-family: 'griffosfontregular';
+  color: #D10C29;
+  font-size: 13pt;
+  margin-bottom: -10px;
+  padding: 0;
+  cursor: pointer;
+}
+
+button:hover {
+  color: black;
+}
+
+svg {
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: -60px;
+  margin-right: -190px;
+}
+
+#Fire:hover {
+  fill: orange;
+  fill: yellow;
+  -webkit-transition-duration: 5s;
+  -webkit-transition-timing-function: ease;
+}
+
+mark.white {
+  color: white;
+  background: none;
+  font-size: 16pt;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.hide1 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide2 {
+  display: none;
+  padding-left: 50px;
+  margin-top: -34px;
+  position: fixed;
+}
+
+.hide3 {
+  display: none;
+  padding-left: 115px;
+  margin-top: -34px;
+  position: fixed;
+}
+
+.hide4 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide5 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide6 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide7 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide8 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide9 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide10 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide11 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide12 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide13 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide14 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide15 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide16 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide17 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide18 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide19 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide20 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide21 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide22 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide23 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide24 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide25 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide26 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide27 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide28 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide29 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide30 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide31 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide32 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide33 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide34 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide35 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide36 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide37 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide38 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide39 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide40 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide41 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide42 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide43 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide44 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide45 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide46 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide47 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide48 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide49 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide50 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide51 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide52 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide53 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide54 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide55 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide56 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide57 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide58 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide59 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide60 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide61 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide62 {
+  display: none;
+  margin-right: 600px;
+  float: left;
+  clear: right;
+}
+
+.hide63 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide64 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide65 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide66 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide67 {
+  display: none;
+  margin-right: 600px;
+}
+
+.hide68 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide69 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}
+
+.hide70 {
+  display: none;
+  margin-right: 600px;
+  float: right;
+  clear: left;
+}

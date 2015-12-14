@@ -1,0 +1,55 @@
+body {
+  font-family: 'exo_2.0light';
+  font-size: 12pt;
+  color: white;
+  position: relative;
+  background: url("typewriter.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.content {
+  float: left;
+  clear: right;
+  margin-top: 100px;
+}
+
+svg {
+  cursor: pointer;
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin-top: 15px;
+  margin-right: -190px;
+}
+
+h1 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+
+
+
+#Fire:hover {
+  fill: orange;
+  fill: yellow;
+  -webkit-transition-duration: 5s;
+  -webkit-transition-timing-function: ease;
+}
+
+
+p {
+  margin-right: 600px;
+  padding-left: 30px;
+  margin-top: 20px;
+}
+
+.mine {
+float: right;
+}
